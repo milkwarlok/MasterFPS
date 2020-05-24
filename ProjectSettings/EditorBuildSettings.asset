@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/FPS/Scenes/IntroMenu.unity
+    guid: 56e3faabc5bb30f49a68bb8f1292f988
+  - enabled: 1
+    path: Assets/FPS/Scenes/WinScene.unity
+    guid: 037d06fbede2b4041a843d9ee6fe750c
+  - enabled: 1
+    path: Assets/FPS/Scenes/LoseScene.unity
+    guid: 72e5c65a45893714484002914e3fd521
+  - enabled: 1
+    path: Assets/FPS/Scenes/MainScene.unity
+    guid: d794a2ef8ba31d847ad3c19d03e2ddb9
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 57cfe71fe8937d34a83b85aa37a8b537,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f4c7e4bdeae55894194b0aa6ed510a6b,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 64efaf4e2d02a01449959f142a5b0dae,
+      type: 2}
